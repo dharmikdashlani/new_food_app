@@ -26,7 +26,7 @@ These are the Food app using SQL Database.
 
 <img align="left" src="https://user-images.githubusercontent.com/102135008/233165644-ea98d70d-5923-46ee-a694-162607921d4e.jpg" width="220px">
 <img align="left" src="https://user-images.githubusercontent.com/102135008/233165642-80c1dd2a-bee2-441b-8c31-3416c74dff9a.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/102135008/233165636-fc899223-5bf9-4543-8796-e484fba32014.jpg" width="220px">
+<img  src="https://user-images.githubusercontent.com/102135008/233165636-fc899223-5bf9-4543-8796-e484fba32014.jpg" width="220px">
 <img  src="https://user-images.githubusercontent.com/102135008/233165630-bc0a16ca-816f-4318-941a-8d9e52dec366.jpg" width="220px">
 
 
