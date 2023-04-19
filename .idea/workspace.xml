@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f992c6ea-6cd2-4086-8f12-ba8e80ba6f17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/577c6c7cb64b406eebb4c00bb55759d4/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/577c6c7cb64b406eebb4c00bb55759d4/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/92fea33bec46567715cdd7f14255617c/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/92fea33bec46567715cdd7f14255617c/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/d671b85ad368d19389d056def4631c54/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/d671b85ad368d19389d056def4631c54/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FMDB/FMDB.framework/FMDB" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FMDB/FMDB.framework/FMDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FMDB/FMDB.framework/Headers/FMDatabasePool.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FMDB/FMDB.framework/Headers/FMDatabasePool.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FMDB/FMDB.framework/Headers/FMDatabaseQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FMDB/FMDB.framework/Headers/FMDatabaseQueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/FMDB.framework/FMDB" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/FMDB.framework/FMDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/sqflite.framework/sqflite" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/sqflite.framework/sqflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/shared_preferences_foundation/shared_preferences_foundation.framework/shared_preferences_foundation" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/shared_preferences_foundation/shared_preferences_foundation.framework/shared_preferences_foundation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/sqflite" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/sqflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/FMDB.framework/FMDB" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/FMDB.framework/FMDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/sqflite.framework/sqflite" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/sqflite.framework/sqflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Flutter Assemble.build/InputFileList-33CC111E2044C6BF0003C045-FlutterInputs-bc80575d96e0f0b893488b84141641ca-resolved.xcfilelist" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Flutter Assemble.build/InputFileList-33CC111E2044C6BF0003C045-FlutterInputs-bc80575d96e0f0b893488b84141641ca-resolved.xcfilelist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Flutter Assemble.build/OutputFileList-33CC111E2044C6BF0003C045-FlutterOutputs-d5319a669dda55024466b1697fbd61a6-resolved.xcfilelist" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Flutter Assemble.build/OutputFileList-33CC111E2044C6BF0003C045-FlutterOutputs-d5319a669dda55024466b1697fbd61a6-resolved.xcfilelist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Flutter Assemble.build/Script-33CC111E2044C6BF0003C045.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Flutter Assemble.build/Script-33CC111E2044C6BF0003C045.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/InputFileList-CE23677940D586C2362F9B2F-Pods-Runner-frameworks-Debug-input-files-e3518fd6be20a8e463cf0b37938c8983-resolved.xcfilelist" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/InputFileList-CE23677940D586C2362F9B2F-Pods-Runner-frameworks-Debug-input-files-e3518fd6be20a8e463cf0b37938c8983-resolved.xcfilelist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/OutputFileList-CE23677940D586C2362F9B2F-Pods-Runner-frameworks-Debug-output-files-4fddc07ce3bcd30dd49800bfd9dd8cd0-resolved.xcfilelist" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/OutputFileList-CE23677940D586C2362F9B2F-Pods-Runner-frameworks-Debug-output-files-4fddc07ce3bcd30dd49800bfd9dd8cd0-resolved.xcfilelist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Script-2ADDB342A4F4A6E86BDCB345.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Script-2ADDB342A4F4A6E86BDCB345.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Script-3399D490228B24CF009A79C7.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Script-3399D490228B24CF009A79C7.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Script-CE23677940D586C2362F9B2F.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Script-CE23677940D586C2362F9B2F.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/App.framework/Versions/A/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/App.framework/Versions/A/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/FMDB/FMDB.framework/Versions/A/FMDB" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/FMDB/FMDB.framework/Versions/A/FMDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/FMDB/FMDB.framework/Versions/A/Headers/FMDatabasePool.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/FMDB/FMDB.framework/Versions/A/Headers/FMDatabasePool.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/FMDB/FMDB.framework/Versions/A/Headers/FMDatabaseQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/FMDB/FMDB.framework/Versions/A/Headers/FMDatabaseQueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/FlutterMacOS.framework/Versions/A/FlutterMacOS" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/FlutterMacOS.framework/Versions/A/FlutterMacOS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/App.framework/Versions/A/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/App.framework/Versions/A/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/FMDB.framework/Versions/A/FMDB" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/FMDB.framework/Versions/A/FMDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/FlutterMacOS.framework/Versions/A/FlutterMacOS" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/FlutterMacOS.framework/Versions/A/FlutterMacOS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftAppKit.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftAppKit.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCore.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCore.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreAudio.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreAudio.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreData.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreData.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreFoundation.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreFoundation.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreGraphics.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreGraphics.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreImage.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreImage.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreMedia.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftCoreMedia.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftDarwin.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftDarwin.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftDispatch.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftDispatch.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftFoundation.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftFoundation.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftIOKit.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftIOKit.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftMetal.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftMetal.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftObjectiveC.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftObjectiveC.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftQuartzCore.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftQuartzCore.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftXPC.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftXPC.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftos.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/libswiftos.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/shared_preferences_foundation.framework/Versions/A/shared_preferences_foundation" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/shared_preferences_foundation.framework/Versions/A/shared_preferences_foundation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/sqflite.framework/Versions/A/sqflite" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/Frameworks/sqflite.framework/Versions/A/sqflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/MacOS/food_order" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/food_order.app/Contents/MacOS/food_order" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/shared_preferences_foundation/shared_preferences_foundation.framework/Versions/A/shared_preferences_foundation" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/shared_preferences_foundation/shared_preferences_foundation.framework/Versions/A/shared_preferences_foundation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/macos/Build/Products/Debug/sqflite/sqflite.framework/Versions/A/sqflite" beforeDir="false" afterPath="$PROJECT_DIR$/build/macos/Build/Products/Debug/sqflite/sqflite.framework/Versions/A/sqflite" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OeaUYGCvsXYQ2nLuThei564paG" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/src/flutter/bin/cache/dart-sdk",
+    "settings.editor.selected.configurable": "dart.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f992c6ea-6cd2-4086-8f12-ba8e80ba6f17" name="Changes" comment="" />
+      <created>1681923518113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681923518113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

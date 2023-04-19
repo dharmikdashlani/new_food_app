@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "bc6a3d051736782f0ed66966bf656e3388c994fc0cfdd4e8a9e954f245fb6a30"
+build_start_time: [1681366492, 199645000]
+build_end_time: [1681366498, 521634000]
+inputs:
+  "/Users/sky/Documents/vs code flutter/dashlani/macos/Flutter/GeneratedPluginRegistrant.swift": [1681366441, 912953217]
+  "/Users/sky/Documents/vs code flutter/dashlani/macos/Runner/AppDelegate.swift": [1671141040, 0]
+  "/Users/sky/Documents/vs code flutter/dashlani/macos/Runner/MainFlutterWindow.swift": [1671141040, 0]

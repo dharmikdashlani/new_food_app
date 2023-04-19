@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "1ad67801ebb95a0fc94eb0ed5e69ec15c2391078efa51162605175302c6a9b96"
+build_start_time: [1681366477, 432948000]
+build_end_time: [1681366477, 519165000]
+inputs:
+  ? "/Users/sky/Documents/Flutter/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_foundation-2.2.0/macos/Classes/SharedPreferencesPlugin.swift"
+  : !private [1681101808, 709794443]
+  ? "/Users/sky/Documents/Flutter/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_foundation-2.2.0/macos/Classes/messages.g.swift"
+  : !private [1681101808, 710450547]
