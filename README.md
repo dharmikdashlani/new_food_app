@@ -3,7 +3,7 @@
 
 ![Untitled design](https://user-images.githubusercontent.com/102135008/233164766-b4c5be6e-3954-44cf-9639-d99a44ccd0bc.png)
 
-# **Notes App**
+# **Online Food App**
 Made by Dharmik Dashlani
 
 ---
